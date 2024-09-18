@@ -81,6 +81,13 @@ where:
 ### Analysis
 
 ```{r analysis, echo=FALSE, warning=FALSE, message=FALSE}
+
+# Install the 'readxl' package if it's not already installed
+
+if (!requireNamespace("readxl", quietly = TRUE)) {
+  install.packages("readxl")
+}
+
 # Load necessary packages
 library(readxl)
 library(knitr)
