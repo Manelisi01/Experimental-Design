@@ -5,7 +5,7 @@
 - Zenande Mangcipu (MNGZEN008)
 
 ## Objective
-The primary objective of this experiment is to compare the efficiency of various sorting algorithms by measuring the time taken to sort randomly generated datasets of different sizes. This allows for an understanding of how each algorithm performs under different conditions, specifically varying data sizes.
+The primary objective of this experiment is to compare the efficiency of various sorting algorithms by measuring the time taken to sort randomly generated datasets of different sizes. This allows for an understanding of how each algorithm performs under different conditions, specifically varying data sizes. The data is then analysed in "Report.Rmd" which is R Markdown code which outputs the "Report.pdf".
 
 ### Sorting Algorithms:
 - **Bubble Sort**
